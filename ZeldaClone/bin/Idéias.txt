@@ -1,0 +1,21 @@
+IDEIAS
+---------
+- Artes para o jogo - sprites
+- Pause, Game Over, Start Menu
+- Sistema de animação para o player
+- Controle do Jogo pelo Teclado
+- Sistema para Shooting
+- Sistema para criação de mapa.
+- Sistema de vários niveis
+- Inimigos no Jogo
+- Boss Battle
+- Coletar itens
+- Aumentar ataque ou defesa de acordo com itens
+- Sistema de dano
+- Sistema para Salvar o jogo
+- Sistema para Carregar o jogo
+- Audio e musica (para o final)
+===========================================
+Notas:
+- Entities: objetos que têm vida, movimento
+- Tiles: objetos estáticos, como grama, parede
